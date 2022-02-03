@@ -5,10 +5,11 @@
  */
 package cardtrickice1;
 
-/** define card value and suits
+/*
+ * @author laksh chhabra 991643419
  * 
- *
- * @author sivagamasrinivasan
+ * 
+
  */
 public class Card 
 {
